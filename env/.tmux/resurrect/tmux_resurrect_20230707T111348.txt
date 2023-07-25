@@ -1,0 +1,7 @@
+pane	0	0	1	:*	0	root@f448b626e11f: /usr/FlexFlow	:/home/moyusir233	1	ssh	:ssh flexflow-test
+pane	0	1	0	:-	0	root@2639b9f6a2bb: /usr/FlexFlow/tests	:/home/moyusir233	1	ssh	:ssh flexflow-test2
+pane	0	2	0	:	0	DESKTOP-UOH7Q8C	:/home/moyusir233/flexflow-test/scripts	1	nvim	:nvim
+window	0	0	:zsh	1	:*	babd,156x43,0,0,0	:
+window	0	1	:zsh	0	:-	bac0,156x43,0,0,3	:
+window	0	2	:zsh	0	:	bac1,156x43,0,0,4	:
+state	0	

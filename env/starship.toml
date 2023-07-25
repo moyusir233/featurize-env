@@ -1,0 +1,25 @@
+# Get editor completions based on the config schema
+"$schema" = 'https://starship.rs/config-schema.json'
+
+# 设置启用的模块
+format = "$all"
+
+# Inserts a blank line between shell prompts
+add_newline = true
+
+# 各种语言项目目录下的显示配置
+[golang]
+symbol = "🦦"
+format = "Golang [$symbol($version )]($style)"
+
+[nodejs]
+format = "Node [$symbol($version )]($style)"
+
+[lua]
+format = "Lua [$symbol($version )]($style)"
+
+[username]
+show_always = true
+
+[hostname]
+ssh_only = false

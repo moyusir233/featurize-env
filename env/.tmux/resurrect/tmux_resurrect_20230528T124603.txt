@@ -1,0 +1,5 @@
+pane	0	0	1	:*	0	DESKTOP-UOH7Q8C	:/home/moyusir233/my-rust-project/bank-system/backend	0	bank-system	:/home/moyusir233/my-rust-project/bank-system/target/release/bank-system
+pane	0	0	1	:*	1	DESKTOP-UOH7Q8C	:/home/moyusir233/my-rust-project/bank-system/frontend	0	node	:node /home/moyusir233/.local/share/pnpm/global/5/node_modules/yarn/bin/yarn.js serve
+pane	0	0	1	:*	2	DESKTOP-UOH7Q8C	:/home/moyusir233/my-rust-project/bank-system/backend	1	zsh	:
+window	0	0	:zsh	1	:*	4c5a,156x41,0,0[156x20,0,0,0,156x20,0,21{78x20,0,21,1,77x20,79,21,5}]	:
+state	0	

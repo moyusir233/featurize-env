@@ -1,0 +1,3 @@
+pane	0	0	1	:*	0	root@3f6f315154ae: /workspace	:/home/moyusir233	1	ssh	:ssh featurize
+window	0	0	:zsh	1	:*	babd,156x43,0,0,0	:
+state	0	
