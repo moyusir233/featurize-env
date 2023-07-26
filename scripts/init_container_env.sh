@@ -12,9 +12,7 @@ $HOME/work/scripts/install_nvidia_cri.sh &
 }
 {
 # 下载与导入开发环境的镜像
-featurize dataset download $1
-# 导入镜像
-sleep 10s && docker load -i $HOME/data/torch2.0-env.tar
+featurize dataset download $1 && sleep 10s && docker load -i $HOME/data/torch2.0-env.tar
 }&
 
 wait
