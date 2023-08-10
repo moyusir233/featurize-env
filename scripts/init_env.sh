@@ -20,3 +20,5 @@ cp ${env_dir}/starship.toml $HOME/.config/
 # 安装常用的软件包
 sudo apt install -y ${env_dir}/zoxide_0.9.1_amd64.deb
 conda install -y -c conda-forge starship
+
+source $HOME/.zshrc
