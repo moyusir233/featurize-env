@@ -121,7 +121,7 @@ bindkey "^R" history-incremental-search-backward
 disable r
 
 # 让git的ssh命令使用work目录下的公钥
-export GIT_SSH_COMMAND="ssh -i $HOME/work/.ssh/id_rsa"
+# export GIT_SSH_COMMAND="ssh -i $HOME/work/.ssh/id_rsa"
 
 DISABLE_AUTO_UPDATE="true"
 source $ZSH/oh-my-zsh.sh
