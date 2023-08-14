@@ -2,7 +2,7 @@
 
 # 执行初始化环境的脚本
 $HOME/work/scripts/init_env.sh &
-$HOME/work/scripts/init_container_env.sh 399a507b-6ecf-4b29-b3d6-88a91cb05736 &
+$HOME/work/scripts/init_container_env.sh b7de7aa9-f9fb-4ca2-92e5-314aa722559a &
 wait
 
 # 拉取git仓库与配置git
