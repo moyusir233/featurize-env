@@ -21,4 +21,8 @@ cp ${env_dir}/.zshrc $HOME/
 # 拷贝starship的配置文件
 cp ${env_dir}/starship.toml $HOME/.config/
 
+# 拷贝ssh相关的文件
+rm -rf $HOME/.ssh
+cp -r $HOME/work/.ssh $HOME/
+
 source $HOME/.zshrc
